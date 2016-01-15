@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[The Nice Paper Co.]]></title>
         <description><![CDATA[The Nice Paper Co.]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-nice-paper-co/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jan 2016 10:42:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 15 Jan 2016 11:17:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-nice-paper-co/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>I'm going to work on being more open and receptive this week, how about you? #goodmorning #motivationmonday #dailynicethoughts #geoleaf #nicepapershop...</p>]]></description>
+            <link>https://www.facebook.com/thenicepaper/photos/a.241620169379128.1073741829.240772809463864/435656979975445/?type=3</link>
+            <guid isPermaLink="false">b686fbbd-503e-4e3b-a5e1-7f6bd4364164</guid>
+            <pubDate>Fri, 15 Jan 2016 11:17:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Wear Our Designs!]]></title>
             <description><![CDATA[<article><h1>Wear Our Designs!</h1><p>Wear your favorite designs from The Nice Paper Co.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5860a2831790e1d980873089b97686a6148f3b3b.png"></article>]]></description>
-            <link>undefinedwear-our-designs/index.html</link>
+            <link>https://thegrid.ai/the-nice-paper-co/wear-our-designs/index.html</link>
             <guid isPermaLink="false">84d4df30-04a4-49f9-9f49-464ea26e96ee</guid>
             <pubDate>Fri, 15 Jan 2016 10:41:58 GMT</pubDate>
         </item>
