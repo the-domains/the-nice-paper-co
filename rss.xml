@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[The Nice Paper Co.]]></title>
         <description><![CDATA[The Nice Paper Co.]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://grid.nicepaper.co/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 13:17:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 05 Mar 2016 13:24:43 GMT</lastBuildDate>
+        <atom:link href="http://grid.nicepaper.co/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[A Vintage Inspired Spring Equinox Shoot]]></title>
-            <description><![CDATA[<article><h1>A Vintage Inspired Spring Equinox Shoot</h1><p>wedding photoshoot</p></article>]]></description>
-            <link>undefineda-vintage-inspired-spring-equinox-shoot/index.html</link>
+            <description><![CDATA[<article><h1>A Vintage Inspired Spring Equinox Shoot</h1><p>wedding photoshoot</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2d910b19-9cb3-4001-b851-311f3602f477.jpg"></article>]]></description>
+            <link>http://grid.nicepaper.co/a-vintage-inspired-spring-equinox-shoot/index.html</link>
             <guid isPermaLink="false">55192aad-eac9-437b-af68-86140a24159c</guid>
-            <pubDate>Sat, 05 Mar 2016 13:17:44 GMT</pubDate>
+            <pubDate>Sat, 05 Mar 2016 13:23:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
