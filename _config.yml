@@ -1,6 +1,6 @@
 name: The Nice Paper Co.
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.47826
 typography_spectrum: 0.82994
 title: The Nice Paper Co.
 collections:
@@ -29,12 +29,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000200'
-    - '#869292'
-    - '#3d423b'
-    - '#dbe8de'
-    - '#7c673a'
-  brandStrength: 0.5
+    - '#ffffff'
+    - '#0e2236'
+    - '#87afab'
+    - '#4e82c7'
+    - '#976048'
+  brandStrength: 0.375
   lightness: 1
   saturation: 0.3125
   rhythmicContrast: 0.5
