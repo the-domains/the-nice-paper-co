@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Nice Paper Co.]]></title>
+        <description><![CDATA[The Nice Paper Co.]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 05 Mar 2016 13:17:56 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A Vintage Inspired Spring Equinox Shoot]]></title>
+            <description><![CDATA[<article><h1>A Vintage Inspired Spring Equinox Shoot</h1><p>wedding photoshoot</p></article>]]></description>
+            <link>undefineda-vintage-inspired-spring-equinox-shoot/index.html</link>
+            <guid isPermaLink="false">55192aad-eac9-437b-af68-86140a24159c</guid>
+            <pubDate>Sat, 05 Mar 2016 13:17:44 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
